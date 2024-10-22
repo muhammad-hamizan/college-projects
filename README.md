@@ -25,7 +25,7 @@ To install and run the project locally, follow these steps:
 
 3. Run the Streamlit application:
    ```bash
-   streamlit run shortest-path.py
+   streamlit run shortest_path.py
    ```
 
 ### Requirements
