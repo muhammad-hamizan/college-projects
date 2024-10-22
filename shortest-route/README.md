@@ -9,19 +9,12 @@ The project is built on the **Streamlit** platform, offering a simple user inter
 ## Badges
 You can add badges here such as build status, code coverage, or dependencies if using services like Shields.io or Travis CI.
 
-## Visuals
-Include visuals of the Streamlit application interface, screenshots of selecting a route, and comparison between Dijkstra and Bellman-Ford paths.
-
-Example screenshot:
-
-![screenshot](link_to_screenshot)
-
 ## Installation
 To install and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/muhammad-hamizan/college-projects.git
    ```
 
 2. Install the required Python packages:
@@ -53,7 +46,7 @@ The output will show the selected route and metrics for both algorithms.
 ## Support
 For any issues or help, please contact:
 
-- Email: support@example.com
+- Email: hamizan.r.muhammad@gmail.com
 - Issue Tracker: [GitHub Issues](link_to_github_issues)
 
 ## Roadmap
