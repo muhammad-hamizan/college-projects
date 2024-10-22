@@ -72,11 +72,8 @@ pytest
 ```
 
 ## Authors and acknowledgment
-- Project Lead: [Your Name]
+- Project Lead: Arief Muhammad Usry, Ghazy Fadhal Ramadhan, Muhammad Rafie Hamizan
 - Contributors: Thanks to everyone who contributed!
-
-## License
-This project is licensed under the MIT License.
 
 ## Project status
 The project is actively maintained, and future updates are planned.
